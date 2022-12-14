@@ -68,7 +68,14 @@ textarea[type=text] {
     color: white;
 }
 
-.hover,.hover1,.hover2,.hover3,.hover4,.hover5,.hover6,.hover7{
+.hover,
+.hover1,
+.hover2,
+.hover3,
+.hover4,
+.hover5,
+.hover6,
+.hover7 {
     height: 310px;
     width: 366px;
     flex: 25%;
