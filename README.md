@@ -9,7 +9,7 @@ Project Description: This is a landing page for a fictional studio called Delani
 
 Project Setup and Installation: Click on the link provided to open the page or copy the link and paste on your preferred browser
 
-Technologies Used: HTML,CSS and JavaScript
+Technologies Used: HTML, CSS and JavaScript
 
 Project Link: https://cgriungu.github.io/Week3/
 
