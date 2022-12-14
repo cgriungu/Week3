@@ -11,6 +11,6 @@ Project Setup and Installation: Click on the link to open the page or copy the l
 
 Technologies Used: HTML, CSS and JavaScript
 
-Project Link: https://eoloo.github.io/Delanistudio/
+Project Link: https://cgriungu.github.io/Week3/
 
 Project License and Copyright Information: @Delani Studio 2022
