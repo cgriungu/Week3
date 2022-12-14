@@ -1,7 +1,7 @@
 # Week3
 Project Name: Delani Studio Landing Page
 
-Author: Evans Oloo
+Author: Christine Riungu
 
 Contact: +254711517181, Twitter: @OchollaOloo Email: olooe@ymail.com
 
